@@ -1,4 +1,6 @@
 == Run code as a Neo4j extension with GraalVM
+
+NOTE: This is an experimental Neo4j Labs project and not part of Neo4j's supported product lineup. See the link:./LABS_DISCLAIMER.txt[Neo4j Labs disclaimer].
 Neo4j extension to execute various languages with Cypher.
 
 Setup steps (basic GraalVM and Neo4j install):
